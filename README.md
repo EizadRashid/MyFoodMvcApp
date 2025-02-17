@@ -30,9 +30,12 @@ This project is a good example for understanding how to create controllers, inte
 ## Screenshots
 
 - Input
+
 ![Screenshot 2025-02-17 121910](https://github.com/user-attachments/assets/b52b0a5d-b5cd-42dd-9547-eebab2eae7b3)
 
+
 - Output
+
 ![Screenshot 2025-02-17 121855](https://github.com/user-attachments/assets/c300953f-7588-4c2a-adf4-42e5e3d429e0)
 
 
